@@ -54,13 +54,14 @@ margin: 10px 0;
 border-radius: 10px;
 }
 
-.inner-section li img {
+ img {
     image-rendering: auto;
     margin: 20px 20px;
     display: flex;
     width: 80%;
     padding: 10%;
     align-item:center;
+    self-align:center.
 
 }
 h5 {

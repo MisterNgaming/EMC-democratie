@@ -37,7 +37,9 @@ text-decoration: none;
 margin-right: 10px;
 font-size: 1.2em;
 }
-
+ul {
+text-align:justify;
+}
 section {
 background-color: rgba(0, 0, 0, 0.3);
 padding: 20px;
